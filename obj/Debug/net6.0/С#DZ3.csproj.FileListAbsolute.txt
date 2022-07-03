@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\bin\Debug\net6.0\С#DZ3.exe
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\bin\Debug\net6.0\С#DZ3.deps.json
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\bin\Debug\net6.0\С#DZ3.runtimeconfig.json
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\bin\Debug\net6.0\С#DZ3.dll
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\bin\Debug\net6.0\С#DZ3.pdb
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.AssemblyInfo.cs
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.dll
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\refint\С#DZ3.dll
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.pdb
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\С#DZ3.genruntimeconfig.cache
+D:\GeekBrains\C#\C#ДЗ\С#DZ3\obj\Debug\net6.0\ref\С#DZ3.dll
